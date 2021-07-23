@@ -12,6 +12,9 @@
   <a href="https://github.com/chandusayhi">
     <img src="https://img.shields.io/github/followers/chandusayhi?color=000000&label=GitHub&logo=github&logoColor=ffffff&style=for-the-badge">
   </a>
+  <a href="https://www.instagram.com/viveksalunkhe80/">
+    <img src="https://img.shields.io/badge/Instagram-Chandrakant Hatti?style=for-the-badge&logo=Instagram">
+  </a>
 
 </p>
 
