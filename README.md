@@ -2,7 +2,7 @@
 -------------
 
 <p>
-What is matplotlib?
+<h2>What is matplotlib?</h2>
     
 Matplotlib is the most popular plotting library for Python. It was written by John D. Hunter in 2003 as a way of providing a plotting functionality similar to that of MATLAB, which at the time was the most popular programming language in academia.
 
@@ -16,7 +16,7 @@ The ability to combine these two styles leads to great flexibility – according
 </p>
 
 <p>
-When to use matplotlib?
+<h2>When to use matplotlib?</h2>
     
 The question is, what is hard and what is easy to implement in matplotlib?
 There are two areas where matplotlib is particularly powerful:
